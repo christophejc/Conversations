@@ -1,5 +1,8 @@
 # Project 1
 
+## GROUP 1 (PLAYER 1)
+Responsibilities: Led the design and implementation of the dynamic weighting system and formulas for how the player balances freshness, coherence, and monotony. Also refined the pausing mechanism and freshness scoring after a pause, so that the thresholding continues to hold for both single and multi-subject items.
+
 ### Setup
 
 Start with installing uv, uv is a modern python package manager.
